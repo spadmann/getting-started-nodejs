@@ -1,7 +1,6 @@
 /*comment
 second line
-3rd line
-4th line*/
+3rd line*/
 var express = require('express');
 var app = express();
 var cities = {cities:["Amsterdam","Berlin","New York","San Francisco","Tokyo"]}
