@@ -1,4 +1,5 @@
-/* First comment*/ 
+/* First comment
+Second comment*/ 
 var request = require('supertest')
     , express = require('express');
 
